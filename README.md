@@ -1,12 +1,5 @@
 # Face Detection 
-## Input images
-<table>
-   <tr>
-      <td><img src="input_0.jpg" alt="1"></td>
-      <td><img src="input_1.jpg" align="right" alt="1">
-  </td>
-  </tr>
-</table>
+**Author**: *Bauyrzhan Zhakanov*, [bauyrzhan.zhakanov@gmail.com](bauyrzhan.zhakanov@gmail.com)
 
 ## Output images
 <table>
