@@ -7,6 +7,7 @@
   </td>
   </tr>
 </table>
+
 ## Output images
 <table>
    <tr>
